@@ -7,3 +7,4 @@
 #### <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U">Some Sums</a>
 #### <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V?fbclid=IwAR358kM296mAyVlRMjFMB0LD5m13ZHUa_U3EJb4QnNBbNIeYDvleu8DXdC8">Pum</a>
 #### <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S?fbclid=IwAR3JjUf1JLsit1-xplYZTH8vuWQR_YtErwvcvFsgXlm9xyNmenBi-oxx7Mo">Search In Matrix</a>
+#### <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S">Sum of Consecutive Odd Numbers</a>
