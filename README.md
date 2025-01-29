@@ -9,4 +9,4 @@
 #### <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S?fbclid=IwAR3JjUf1JLsit1-xplYZTH8vuWQR_YtErwvcvFsgXlm9xyNmenBi-oxx7Mo">Search In Matrix</a>
 #### <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S">Sum of Consecutive Odd Numbers</a>
 #### <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G">Summation from 1 to N</a>
-
+#### <a href="https://codeforces.com/contest/265/problem/A">Colorful Stones</a>
