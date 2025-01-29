@@ -10,3 +10,5 @@
 #### <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S">Sum of Consecutive Odd Numbers</a>
 #### <a href="https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G">Summation from 1 to N</a>
 #### <a href="https://codeforces.com/contest/265/problem/A">Colorful Stones</a>
+#### <a href="https://codeforces.com/contest/731/problem/A">Night at the Museum</a>
+#### <a href="https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/O">Yaroslav and Permutations</a>
